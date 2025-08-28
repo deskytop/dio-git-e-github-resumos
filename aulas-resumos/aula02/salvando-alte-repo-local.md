@@ -1,5 +1,5 @@
 # Aula 02 - Salvando Alterações no Repositório Local
-## 🖥️ Comandos GitHub Básico
+## 🖥️ Comandos GitHub
 Verifica Alterações no Repositório
 ```
 git status
