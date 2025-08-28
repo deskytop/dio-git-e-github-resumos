@@ -59,4 +59,4 @@ __Útil para verificar as configurações do repositório__
 cat config
 ```
 ***
-**[Voltar ao Início](./dio-git-e-github-resumos/README.md)**
+**[Voltar ao Início](../../README.md)**

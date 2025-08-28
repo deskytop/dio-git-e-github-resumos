@@ -21,4 +21,4 @@ Mostra o histórico de commits
 git log
 ```
 ***
-**[Voltar ao Início](./dio-git-e-github-resumos/README.md)**
+**[Voltar ao Início](../../README.md)**
