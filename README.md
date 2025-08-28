@@ -17,7 +17,7 @@ Todas as aulas podem ser encontradas [aqui](https://github.com/digitalinnovation
 
 ## ✏️ Resumos das Aulas 
 
-Acesse os resumos [aqui]()
+Acesse os resumos [aqui](./aulas-resumos/resumos.md/)
 
 
 
