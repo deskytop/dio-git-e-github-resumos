@@ -1,4 +1,4 @@
-# Aula 01 - Criando e Clonando Repositórios
+﻿# Aula 01 - Criando e Clonando Repositórios
 
 ## 🤖 Comandos Básicos de Diretórios
 Comando para criar diretórios
@@ -20,7 +20,7 @@ Comando para criar um arquivo vazio
 ```
 touch arquivo.extensao
 ```
-## 🖥�?Comandos GitHub Básico
+## 🖥️ Comandos GitHub Básico
 Inicializa um repositório local
 ```
 git init
