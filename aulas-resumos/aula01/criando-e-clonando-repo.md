@@ -15,6 +15,7 @@ cd ..
 ```
 ***
 Atalho **_Ctrl + L_** , alinha terminal (limpa visualmente)
+
 ou para limpar 
 ```
 clear
