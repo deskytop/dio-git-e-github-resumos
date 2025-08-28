@@ -14,15 +14,13 @@ Comando para voltar um diretório
 cd ..
 ```
 ***
-\
-Atalho _Ctrl + L_ , limpa terminal
+Atalho **_Ctrl + L_** , limpa terminal
 ***
-\
 Comando para criar um arquivo vazio
 ```
 touch arquivo.extensao
 ```
-## 🖥️ Comandos GitHub Básico
+## 🖥�?Comandos GitHub Básico
 Inicializa um repositório local
 ```
 git init
