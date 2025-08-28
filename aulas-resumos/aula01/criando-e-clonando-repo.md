@@ -14,7 +14,11 @@ Comando para voltar um diretório
 cd ..
 ```
 ***
-Atalho **_Ctrl + L_** , limpa terminal
+Atalho **_Ctrl + L_** , alinha terminal (limpa visualmente)
+ou para limpar 
+```
+clear
+```
 ***
 Comando para criar um arquivo vazio
 ```
