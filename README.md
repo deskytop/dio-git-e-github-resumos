@@ -17,14 +17,7 @@ Todas as aulas podem ser encontradas [aqui](https://github.com/digitalinnovation
 
 ## ✏️ Resumos das Aulas 
 
-| Aulas | Resumos |
-|-------|---------|
-|Criando e Clonando Repositórios| []()|
-|Gravando Alterações Repo-Local| []()|
-|Desfazendo Alterações Repo-Local| []()|
-|Enviando e Baixando Alterações com Repo-Remoto| []()|
-|Branches - Criando, Mesclando, Deletando e Tratando Conflitos| []()|
-|Branches - Comandos Úteis no Dia a Dia| []()|
+Acesse os resumos [aqui]()
 
 
 
