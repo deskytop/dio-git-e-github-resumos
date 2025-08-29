@@ -1,5 +1,5 @@
 # Aula 03 - Desfazendo Alterações no Repositório Local
-## 🤖 Comandos Básicos de Diretórios
+## 🤖 Comandos de Diretórios
 Dentro da pasta de Repositório, força remoção do diretório .git
 ```
 rm -rf .git
